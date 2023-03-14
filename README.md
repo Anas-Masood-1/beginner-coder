@@ -1,1 +1,2 @@
 # beginner-coder
+Hey everyone! I hope I am welcomed into the Coding world! I wrote my first code about a year and a half ago, My name is Anas Masood. I am 13 years old. Since I was 10 years old, I was into computers  and therefore I was always curious to how I can make my own program. I finished my first Python Beginner Course from youtube. It was a 4 hour course. I am new to GitHub stuff and I need help. What coding language should I try next? Should I stick to python, or should I learn other languages like C++ and Javascript.
